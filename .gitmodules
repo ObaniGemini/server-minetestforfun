@@ -1,39 +1,36 @@
-[submodule "mods/quests"]
-	path = mods/quests
-	url = https://github.com/MinetestForFun/quests.git
-[submodule "mods/fishing"]
-	path = mods/fishing
-	url = https://github.com/MinetestForFun/fishing.git
-[submodule "mods/mff/mff_hud"]
-	path = mods/mff/mff_hud
-	url = https://github.com/MinetestForFun/mff_hud.git
-[submodule "mods/irc_modpack"]
-	path = mods/irc_modpack
-	url = https://github.com/MinetestForFun/irc_modpack.git
-[submodule "mods/time_regulation"]
-	path = mods/time_regulation
-	url = git://github.com/MinetestForFun/time_regulation.git
-[submodule "mods/minercantile"]
-	path = mods/minercantile
-	url = https://github.com/MinetestForFun/minercantile.git
-[submodule "minetestforfun_game/mods/stacktraceplus"]
-	path = mods/stacktraceplus
-	url = https://github.com/MinetestForFun/stacktraceplus.git
-[submodule "mods/profilerdumper"]
-	path = mods/profilerdumper
-	url = https://github.com/MinetestForFun/profilerdumper.git
-[submodule "mods/xban2"]
-	path = mods/xban2
-	url = https://github.com/MinetestForFun/xban2.git
-[submodule "mods/areas"]
-	path = mods/areas
-	url = https://github.com/MinetestForFun/areas.git
-[submodule "mods/name_restrictions"]
-	path = mods/name_restrictions
-	url = https://github.com/MinetestForFun/name_restrictions.git
-[submodule "mods/mysql_auth"]
-	path = mods/mysql_auth
-	url = https://github.com/MinetestForFun/mysql_auth.git
-[submodule "mods/mapfix"]
-	path = mods/mapfix
-	url = https://github.com/minetest-mods/mapfix.git
+[submodule "minetestforfun_game/mods/tools/areas"]
+	path = minetestforfun_game/mods/tools/areas
+	url = https://github.com/MinetestForFun/areas
+[submodule "minetestforfun_game/mods/tools/fishing"]
+	path = minetestforfun_game/mods/tools/fishing
+	url = https://github.com/MinetestForFun/fishing
+[submodule "minetestforfun_game/mods/irc_modpack"]
+	path = minetestforfun_game/mods/irc_modpack
+	url = https://github.com/MinetestForFun/irc_modpack
+[submodule "minetestforfun_game/mods/utilitary/mapfix"]
+	path = minetestforfun_game/mods/utilitary/mapfix
+	url = https://github.com/minetest-mods/mapfix
+[submodule "minetestforfun_game/mods/misc/minercantile"]
+	path = minetestforfun_game/mods/misc/minercantile
+	url = https://github.com/MinetestForFun/minercantile
+[submodule "minetestforfun_game/mods/admin_tools/mysql_auth"]
+	path = minetestforfun_game/mods/admin_tools/mysql_auth
+	url = https://github.com/MinetestForFun/mysql_auth
+[submodule "minetestforfun_game/mods/admin_tools/name_restrictions"]
+	path = minetestforfun_game/mods/admin_tools/name_restrictions
+	url = https://github.com/MinetestForFun/name_restrictions
+[submodule "minetestforfun_game/mods/admin_tools/profilerdumper"]
+	path = minetestforfun_game/mods/admin_tools/profilerdumper
+	url = https://github.com/MinetestForFun/profilerdumper
+[submodule "minetestforfun_game/mods/misc/quests/quests"]
+	path = minetestforfun_game/mods/misc/quests
+	url = https://github.com/MinetestForFun/quests
+[submodule "minetestforfun_game/mods/utilitary/stacktraceplus"]
+	path = minetestforfun_game/mods/utilitary/stacktraceplus
+	url = https://github.com/MinetestForFun/stacktraceplus
+[submodule "minetestforfun_game/mods/utilitary/time_regulation"]
+	path = minetestforfun_game/mods/utilitary/time_regulation
+	url = https://github.com/minetest-mods/time_regulation
+[submodule "minetestforfun_game/mods/admin_tools/xban2"]
+	path = minetestforfun_game/mods/admin_tools/xban2
+	url = https://github.com/MinetestForFun/xban2
