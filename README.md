@@ -1,7 +1,7 @@
 MinetestForFun Game server version of MinetestForFun Team
 ===================
 
-![banner_classic](http://i.imgur.com/5ADfUeK.png)
+![banner_classic](https://raw.githubusercontent.com/MinetestForFun/server-minetestforfun-other_things/master/logos/banner.png)
 
 You can find here the subgame and the mods of the server MinetestForFun.
 
